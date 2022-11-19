@@ -475,7 +475,7 @@ rules:
   - RULE-SET,Instagram,Telegram
 
   # Switch 加速
-  - RULE-SET,Ninendo,Nintendo
+  - RULE-SET,Nintendo,Nintendo
 
   # Apple 服务
   - RULE-SET,Apple,DIRECT
