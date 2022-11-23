@@ -402,7 +402,7 @@ rule-providers:
 
   BanAD:
     type: http
-    behavior: classical
+    behavior: domain
     url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanAD.list
     path: ./Rules/Reject/BanAD.yaml
     interval: 86400  
