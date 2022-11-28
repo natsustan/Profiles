@@ -53,168 +53,168 @@ proxies:
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20011
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇨🇳 Taiwan | 02
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20012
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇨🇳 Taiwan | 03
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20013
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇨🇳 Taiwan | 04
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20014
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇨🇳 Taiwan | 05
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20015
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇨🇳 Taiwan | 06
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20016
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇨🇳 Taiwan | 07
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20017
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇨🇳 Taiwan | 08
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20018
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇸🇬 Singapore | 01
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20021
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇸🇬 Singapore | 02
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20022
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇸🇬 Singapore | 03
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20023
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇸🇬 Singapore | 04
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20024
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇸🇬 Singapore | 05
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20025
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇸🇬 Singapore | 06
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20026
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇸🇬 Singapore | 07
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20027
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇸🇬 Singapore | 08
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20028
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇯🇵 Japan | 01
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20031
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇯🇵 Japan | 02
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20032
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇯🇵 Japan | 03
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20033
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇯🇵 Japan | 04
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20034
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇯🇵 Japan | 05
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20035
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇯🇵 Japan | 06
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20036
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇯🇵 Japan | 07
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20037
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
   - name: 🇯🇵 Japan | 08
     type: trojan
     server: oss-cn-guangzhou.westdatacloud.xyz
     port: 20038
-    password: FEE39A35-9DC2-A583-5A0A-33789A77A466
+    password: 1bec58e8-6ddb-11ed-bbdc-f23c935380ee
     sni: v12.kwaicdn.com
     skip-cert-verify: true
 
